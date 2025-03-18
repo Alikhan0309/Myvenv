@@ -1,2 +1,3 @@
-# Myvenv
-Examples of code that I wrote at university
+sc# Myvenv
+python = 3.10.0
+
